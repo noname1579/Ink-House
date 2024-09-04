@@ -1,0 +1,26 @@
+.projects {
+  margin-top: 8%;
+}
+
+.projects-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.projects-btn {
+  margin: 0 15px;
+  border-radius: 2rem;
+  padding: 8px 40px;
+  font-size: 16px;
+  background-color: #D4E8D9;
+  border: #D4E8D9;
+  color: #212227;
+}
+
+h2 {
+  font-size: 40px;
+	color: #2C2D35;
+	font-weight: 500;
+	line-height: 4rem;
+}
